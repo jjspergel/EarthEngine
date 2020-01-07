@@ -255,5 +255,6 @@ dependencies:
   - xz=5.2.4=h14c3975_1001
   - zlib=1.2.11=h14c3975_1004
   - zstd=1.4.0=h3b9ef0a_0
+  - richdem
 prefix: /srv/conda/envs/is2seaiceenv
 
